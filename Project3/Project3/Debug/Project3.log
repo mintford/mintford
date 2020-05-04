@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Project\Project3\Project3\Source.cpp(24): error C4700: использована неинициализированная локальная переменная "y1"
+D:\Project\Project3\Project3\Source.cpp(25): error C4700: использована неинициализированная локальная переменная "zi"
+D:\Project\Project3\Project3\Source.cpp(25): error C4700: использована неинициализированная локальная переменная "yi"
+D:\Project\Project3\Project3\Source.cpp(57): error C4716: Euler: должна возвращать значение
+D:\Project\Project3\Project3\Source.cpp(78): error C4716: Euler_modify: должна возвращать значение
